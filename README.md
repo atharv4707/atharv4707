@@ -1,67 +1,87 @@
 <h1 align="center">Hi 👋, I'm Atharv Shivarkar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Developer from India • Full Stack + AI/ML • Building real-world projects</h3>
 
 <p align="center">
-I love building real-world projects using Web Development, AI/ML and modern UI/UX.  
-I enjoy turning ideas into useful and creative products.
+  <a href="https://www.linkedin.com/in/atharv-shivarkar-05366726b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Atharv%20Shivarkar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:atharv4707@gmail.com">
+    <img src="https://img.shields.io/badge/Email-atharv4707%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/atharv4707?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View%20Repos-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
-
----
-
-- 🔭 I’m currently working on **Campus Digital Twin (3D + Live Data)**  
-
-- 🌱 I’m currently learning **Full Stack Development, React, Node.js, AI/ML & Computer Vision**  
-
-- 👯 I’m looking to collaborate on **AI and Web Development Projects**  
-
-- 🤝 I’m looking for help with **Advanced UI/UX and scalable backend architecture**  
-
-- 👨‍💻 All of my projects are available at  
-  https://github.com/atharv4707?tab=repositories  
-
-- 💬 Ask me about **React, Frontend UI design, Beginner AI projects, Project building strategy**  
-
-- 📫 How to reach me  
-  **atharv4707@gmail.com**
-
-- ⚡ Fun fact  
-  **I enjoy building unusual and creative tech projects that solve real problems.**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/atharv-shivarkar-05366726b/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" height="40"/>
-
-</p>
-
----
-
-<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=atharv4707&show_icons=true&theme=radical" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv4707&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+in+progress;React+%7C+Node.js+%7C+MongoDB;AI%2FML+%7C+Computer+Vision+Projects;Building+Campus+Digital+Twin+%F0%9F%8F%AB%F0%9F%8C%90" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building: **Campus Digital Twin (3D + Live Data)**
+- 🌱 Learning: **Full Stack (React, Node.js) + AI/ML & Computer Vision**
+- 👯 Open to collaborate on: **Web + AI Projects**
+- 🤝 Need help with: **Advanced UI/UX + scalable backend**
+- 💬 Ask me about: **React, UI Design, Beginner AI Projects, Build Strategy**
+- 📫 Reach me: **atharv4707@gmail.com**
+- ⚡ Fun fact: **I love building unusual projects that solve real problems**
+
+---
+
+## 🏆 Highlight Projects (Pinned)
+
+> **Tip:** Pin these repos on your profile for maximum impact.
+
+- 🩸 **Blood-help** — emergency blood donor + services finder  
+- 🎯 **Object-detection** — computer vision detection project  
+- 🧩 **campus-thrift-spot** — student marketplace concept  
+- 🔗 **Chainfluence** — TypeScript based project
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend:** React, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, MySQL  
+**AI/ML:** Python, OpenCV, Pandas  
+**Tools:** Git, Figma, Blender
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,opencv,git,figma,blender&perline=7" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharv4707&show_icons=true&rank_icon=github&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv4707&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv4707&layout=compact&theme=tokyonight" height="140" />
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv4707&theme=tokyo-night" />
+
+---
+
+## 📌 Quick Links
+
+- LinkedIn: https://www.linkedin.com/in/atharv-shivarkar-05366726b/
+- GitHub: https://github.com/atharv4707
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharv4707&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
