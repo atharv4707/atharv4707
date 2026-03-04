@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building: **Campus Digital Twin (3D + Live Data)**
+
 - 🌱 Learning: **Full Stack (React, Node.js) + AI/ML & Computer Vision**
 - 👯 Open to collaborate on: **Web + AI Projects**
 - 🤝 Need help with: **Advanced UI/UX + scalable backend**
